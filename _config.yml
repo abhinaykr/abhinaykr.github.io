@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            abhinay
-tagline:          
+title:            ABHINAY
+tagline:          an experiment
 url:              http://abhinay.ca
 paginate:         1
 author:
@@ -19,3 +19,8 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
+
+# Custom Static Pages
+pages_list:       
+  Posts: '/posts'
+  About: '/about'
