@@ -6,20 +6,16 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            abhinay
+tagline:          experiment
 url:              http://getpoole.com
 paginate:         1
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Abhinay Kondamreddy
+  url:            http://ca.linkedin.com/in/akondamreddy/
+  email:          abhinaykondamreddy@gmail.com
 
 # Custom vars
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
-
- #page_list:
- pages_list:
- 	Archive: '/archive'
