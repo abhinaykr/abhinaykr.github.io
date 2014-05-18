@@ -19,3 +19,7 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
+
+ #page_list:
+ pages_list:
+ 	Archive: '/archive'
