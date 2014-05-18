@@ -316,7 +316,10 @@ tbody tr:nth-child(odd) th {
   color: #c0c0c0;
   letter-spacing: 0;
 }
-
+.masthead-title small a{
+  color: #505050;
+  padding-left: 18rem;
+}
 
 /*
  * Posts and pages
