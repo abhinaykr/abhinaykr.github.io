@@ -17,10 +17,9 @@ author:
 
 # Custom vars
 version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+github:		  https://github.com/abhinaykr
+  repo:           https://github.com/abhinaykr/abhinaykr.github.io
 
 # Custom Static Pages
 pages_list:       
   Posts: '/posts'
-  About: '/about'
