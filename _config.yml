@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            ABHINAY
+tagline:          an experiment
+url:              http://abhinay.ca
+paginate:         1
+author:
+  name:           Abhinay Kondamreddy
+  url:            http://ca.linkedin.com/in/akondamreddy/
+  email:          abhinaykondamreddy@gmail.com
+
+# Custom vars
+version:          1.0.0
+github:		  https://github.com/abhinaykr
+
+# Custom Static Pages
+pages_list:       
+  Posts: '/posts'
+  About: '/about'
+  Projects: '/projects'
