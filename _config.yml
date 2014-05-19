@@ -22,3 +22,5 @@ github:		  https://github.com/abhinaykr
 # Custom Static Pages
 pages_list:       
   Posts: '/posts'
+  About: '/about'
+  Projects: '/projects'
