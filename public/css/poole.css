@@ -323,6 +323,20 @@ tbody tr:nth-child(odd) th {
   padding-top:5px;
 }
 
+/* Media link alignment
+ * */
+
+.glyphs {
+  float: left;
+  display: inline;
+  margin:5px;
+}
+.glyph1 {
+  float: left;
+  display: inline;
+  margin:5px;
+  padding-top:2px;
+}
 /*
  * Posts and pages
  *
