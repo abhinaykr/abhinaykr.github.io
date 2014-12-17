@@ -4,7 +4,7 @@
  <title>ABHINAY</title>
  <link href="http://abhinay.caatom.xml" rel="self"/>
  <link href="http://abhinay.ca"/>
- <updated>2014-05-24T12:44:01-04:00</updated>
+ <updated>2014-12-17T11:49:30-05:00</updated>
  <id>http://abhinay.ca</id>
  <author>
    <name>Abhinay Kondamreddy</name>
@@ -13,19 +13,11 @@
 
  
  <entry>
-   <title>This blog</title>
-   <link href="http://abhinay.ca/2014/05/18/this-blog/"/>
-   <updated>2014-05-18T00:00:00-04:00</updated>
-   <id>http://abhinay.ca/2014/05/18/this-blog</id>
-   <content type="html">&lt;p&gt;After searching for a simple system to blog, I resolved to use &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; along with &lt;a href=&quot;https://pages.github.com&quot;&gt;Github pages&lt;/a&gt;. I found a simple theme called &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt; that I modified slightly.&lt;/p&gt;
-
-&lt;p&gt;I used the following tutorials to set up Github Pages &amp;amp; Jekyll:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/using-jekyll-with-pages&quot;&gt;Github Pages + Jekyll&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://joshualande.com/jekyll-github-pages-poole/&quot;&gt;Analytics + Poole&lt;/a&gt; &lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://charliepark.org/tags-in-jekyll/&quot;&gt;Tags&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+   <title>Test</title>
+   <link href="http://abhinay.ca/2014/12/17/test/"/>
+   <updated>2014-12-17T00:00:00-05:00</updated>
+   <id>http://abhinay.ca/2014/12/17/test</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/test.jpg&quot; alt=&quot;Heybalidad, Istanbul&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Cheers,&lt;/p&gt;
 
